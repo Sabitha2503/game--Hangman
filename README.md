@@ -25,3 +25,7 @@ Standard Python Libraries – No third-party packages required.
 
 ## Output
 
+![Image](https://github.com/user-attachments/assets/d3a25be3-59ba-4528-b22b-a1a587928643)
+
+![Image](https://github.com/user-attachments/assets/aa78941f-ffe8-4df8-b0d9-4829ecf82270)
+
